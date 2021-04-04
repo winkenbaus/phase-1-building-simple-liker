@@ -4,6 +4,22 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+document.getElementById("modal")
+        .addEventListener("DOMcontentLoaded", function() {
+          document.getElementById("modal-message").hidden = true;
+          //document.getElementById("modal-message").hidden = true;
+        }, false);
+
+
+
+
+
+
+
+
+
+
+
 
 
 
